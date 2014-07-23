@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GDG Women Hello World</string>
+    <string name="hello_world">hola mundaso!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_second">MySecondActivity</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="edtPassword">Ingresa Clave</string>
+    <string name="edtUsr">Ingresa Usuario</string>
+
+</resources>
